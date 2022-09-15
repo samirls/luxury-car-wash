@@ -131,6 +131,7 @@ button:hover {
   max-width: 1000px;
   margin: 0 auto;
   padding: 20px 10px;
+  transition: 100ms;
 
 }
 
@@ -162,6 +163,10 @@ button:hover {
 
 a:hover {
   transform: scale(1.8);
+}
+
+a {
+  transition: 200ms;
 }
 
 .h2-cars {
